@@ -2,10 +2,6 @@
 
 # AZ-400: Designing and Implementing Microsoft DevOps Solutions
 
-## 📋 Course Survey
-- **Survey Form**  
-  https://forms.cloud.microsoft/r/w1YmYX3NkL
-
 ---
 
 # 🌐 Portals
