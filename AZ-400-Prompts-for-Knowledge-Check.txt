@@ -1,0 +1,310 @@
+Learning Path - 1: Prompt for Knowledge Check:
+
+You are an expert in Azure DevOps, GitHub Actions, DevOps Tools, CI and CD, and the full content of the all eight learning modules of AZ‑400.
+Create 25 multiple-choice questions, but present ONLY ONE question at a time.
+Randomize question order across all modules.
+Your MCQs must include a mix of:
+- Easy, moderate, and difficult questions
+- Scenario‑based questions
+- Case‑study questions
+- Yes/No type questions
+- Conceptual + practical application questions
+
+After presenting each question:
+- Stop and wait for my answer.
+- After I answer, provide:
+✔️ A clear statement of the correct answer
+📝 A brief explanation (2–4 sentences)
+
+
+Then automatically present the next question
+Continue until all 25 questions are completed.
+
+Content Coverage Requirements (Generate questions across all following modules):
+Learning Path-1: Development for Enterprise DevOps(https://learn.microsoft.com/en-us/training/paths/az-400-work-git-for-enterprise-devops/)
+Module 1. Introduction to DevOps
+Module 2. Plan Agile with GitHub Projects and Azure Boards
+Module 3. Design and implement branch strategies and workflows
+Module 4. Collaborate with pull requests in Azure Repos
+Module 5. Explore Git hooks
+Module 6. Plan to foster inner source
+Module 7. Manage and configure repositories
+Module 8. Identify technical debt
+
+
+Start Now
+Begin with:
+“Question 1 of 25:”
+Then present the first MCQ and wait for my answer.
+
+
+---------------------------------------------------------------------------------------------------
+
+Learning Path - 2: Prompt for Knowledge Check:
+
+You are an expert in Azure DevOps, GitHub Actions, DevOps Tools, CI and CD, and the full content of the all eight learning modules of AZ‑400.
+Create 25 multiple-choice questions, but present ONLY ONE question at a time.
+Randomize question order across all modules.
+Your MCQs must include a mix of:
+- Easy, moderate, and difficult questions
+- Scenario‑based questions
+- Case‑study questions
+- Yes/No type questions
+- Conceptual + practical application questions
+
+After presenting each question:
+- Stop and wait for my answer.
+- After I answer, provide:
+✔️ A clear statement of the correct answer
+📝 A brief explanation (2–4 sentences)
+
+
+Then automatically present the next question
+Continue until all 25 questions are completed.
+
+Content Coverage Requirements (Generate questions across all following modules):
+Learning Path-2: Implement CI with Azure Pipelines and GitHub Actions (https://learn.microsoft.com/en-us/training/paths/az-400-implement-ci-azure-pipelines-github-actions/)
+Module 1. Explore Azure Pipelines
+Module 2. Manage Azure Pipeline agents and pools
+Module 3. Describe pipelines and concurrency
+Module 4. Design and implement a pipeline strategy
+Module 5. Integrate with Azure Pipelines
+Module 6. Introduction to GitHub Actions
+Module 7. Learn continuous integration with GitHub Actions
+Module 8. Design a container build strategy
+
+
+Start Now
+Begin with:
+“Question 1 of 25:”
+Then present the first MCQ and wait for my answer.
+
+
+---------------------------------------------------------------------------------------------------
+
+Learning Path - 3: Prompt for Knowledge Check:
+
+You are an expert in Azure DevOps, GitHub Actions, DevOps Tools, CI and CD, and the full content of the all eight learning modules of AZ‑400.
+Create 25 multiple-choice questions, but present ONLY ONE question at a time.
+Randomize question order across all modules.
+Your MCQs must include a mix of:
+- Easy, moderate, and difficult questions
+- Scenario‑based questions
+- Case‑study questions
+- Yes/No type questions
+- Conceptual + practical application questions
+
+After presenting each question:
+- Stop and wait for my answer.
+- After I answer, provide:
+✔️ A clear statement of the correct answer
+📝 A brief explanation (2–4 sentences)
+
+
+Then automatically present the next question
+Continue until all 25 questions are completed.
+
+Content Coverage Requirements (Generate questions across all following modules):
+Learning Path-3:  Design and implement a release strategy (https://learn.microsoft.com/en-us/training/paths/az-400-design-implement-release-strategy/)
+Module 1. Create a Release Pipeline
+Module 2. Explore release strategy recommendations
+Module 3. Configure and Provision Environments
+Module 4. Manage and Modularize Tasks and Templates
+Module 5. Automate inspection of health
+
+
+
+Start Now
+Begin with:
+“Question 1 of 25:”
+Then present the first MCQ and wait for my answer.
+
+---------------------------------------------------------------------------------------------------
+
+Learning Path - 4: Prompt for Knowledge Check:
+
+You are an expert in Azure DevOps, GitHub Actions, DevOps Tools, CI and CD, and the full content of the all eight learning modules of AZ‑400.
+Create 25 multiple-choice questions, but present ONLY ONE question at a time.
+Randomize question order across all modules.
+Your MCQs must include a mix of:
+- Easy, moderate, and difficult questions
+- Scenario‑based questions
+- Case‑study questions
+- Yes/No type questions
+- Conceptual + practical application questions
+
+After presenting each question:
+- Stop and wait for my answer.
+- After I answer, provide:
+✔️ A clear statement of the correct answer
+📝 A brief explanation (2–4 sentences)
+
+
+Then automatically present the next question
+Continue until all 25 questions are completed.
+
+Content Coverage Requirements (Generate questions across all following modules):
+Learning Path-4:  Implement a secure continuous deployment using Azure Pipelines (https://learn.microsoft.com/en-us/training/paths/az-400-implement-secure-continuous-deployment/)
+Module 1. Introduction to deployment patterns
+Module 2. Implement blue-green deployment and feature toggles
+Module 3. Implement canary releases and dark launching
+Module 4. Implement A/B testing and progressive exposure deployment
+Module 5. Integrate with identity management systems
+Module 6. Manage application configuration data
+
+
+Start Now
+Begin with:
+“Question 1 of 25:”
+Then present the first MCQ and wait for my answer.
+
+---------------------------------------------------------------------------------------------------
+
+Learning Path - 5: Prompt for Knowledge Check:
+
+You are an expert in Azure DevOps, GitHub Actions, DevOps Tools, CI and CD, and the full content of the all eight learning modules of AZ‑400.
+Create 25 multiple-choice questions, but present ONLY ONE question at a time.
+Randomize question order across all modules.
+Your MCQs must include a mix of:
+- Easy, moderate, and difficult questions
+- Scenario‑based questions
+- Case‑study questions
+- Yes/No type questions
+- Conceptual + practical application questions
+
+After presenting each question:
+- Stop and wait for my answer.
+- After I answer, provide:
+✔️ A clear statement of the correct answer
+📝 A brief explanation (2–4 sentences)
+
+
+Then automatically present the next question
+Continue until all 25 questions are completed.
+
+Content Coverage Requirements (Generate questions across all following modules):
+Learning Path-5:  Manage infrastructure as code using Azure and DSC (https://learn.microsoft.com/en-us/training/paths/az-400-manage-infrastructure-as-code-using-azure/)
+Module 1. Explore Infrastructure as Code and configuration management
+Module 2. Create Azure Resources by using Azure Resource Manager templates
+Module 3. Create Azure Resources Using Azure CLI
+Module 4. Explore Azure Automation with DevOps
+Module 5. Implement Desired State Configuration (DSC)
+Module 6. Implement Bicep
+
+
+Start Now
+Begin with:
+“Question 1 of 25:”
+Then present the first MCQ and wait for my answer.
+
+---------------------------------------------------------------------------------------------------
+
+Learning Path - 6: Prompt for Knowledge Check:
+
+You are an expert in Azure DevOps, GitHub Actions, DevOps Tools, CI and CD, and the full content of the all eight learning modules of AZ‑400.
+Create 25 multiple-choice questions, but present ONLY ONE question at a time.
+Randomize question order across all modules.
+Your MCQs must include a mix of:
+- Easy, moderate, and difficult questions
+- Scenario‑based questions
+- Case‑study questions
+- Yes/No type questions
+- Conceptual + practical application questions
+
+After presenting each question:
+- Stop and wait for my answer.
+- After I answer, provide:
+✔️ A clear statement of the correct answer
+📝 A brief explanation (2–4 sentences)
+
+Then automatically present the next question
+Continue until all 25 questions are completed.
+
+Content Coverage Requirements (Generate questions across all following modules):
+Learning Path-6:  Implement security and validate code bases for compliance (https://learn.microsoft.com/en-us/training/paths/az-400-implement-security-validate-code-bases-compliance/)
+Module 1. Introduction to Secure DevOps
+Module 2. Implement open-source software
+Module 3. Software Composition Analysis
+Module 4. Security monitoring and governance
+
+
+Start Now
+Begin with:
+“Question 1 of 25:”
+Then present the first MCQ and wait for my answer.
+
+---------------------------------------------------------------------------------------------------
+
+Learning Path - 7: Prompt for Knowledge Check:
+
+You are an expert in Azure DevOps, GitHub Actions, DevOps Tools, CI and CD, and the full content of the all eight learning modules of AZ‑400.
+Create 25 multiple-choice questions, but present ONLY ONE question at a time.
+Randomize question order across all modules.
+Your MCQs must include a mix of:
+- Easy, moderate, and difficult questions
+- Scenario‑based questions
+- Case‑study questions
+- Yes/No type questions
+- Conceptual + practical application questions
+
+After presenting each question:
+- Stop and wait for my answer.
+- After I answer, provide:
+✔️ A clear statement of the correct answer
+📝 A brief explanation (2–4 sentences)
+
+
+Then automatically present the next question
+Continue until all 25 questions are completed.
+
+Content Coverage Requirements (Generate questions across all following modules):
+Learning Path-7:  Design and implement a dependency management strategy (https://learn.microsoft.com/en-us/training/paths/az-400-design-implement-dependency-management-strategy/)
+Module 1. Explore package dependencies
+Module 2. Understand package management
+Module 3. Migrate, consolidate, and secure artifacts
+Module 4. Implement a versioning strategy
+Module 5. Introduction to GitHub Packages
+
+Start Now
+Begin with:
+“Question 1 of 25:”
+Then present the first MCQ and wait for my answer.
+
+---------------------------------------------------------------------------------------------------
+
+Learning Path - 8: Prompt for Knowledge Check:
+
+You are an expert in Azure DevOps, GitHub Actions, DevOps Tools, CI and CD, and the full content of the all eight learning modules of AZ‑400.
+Create 25 multiple-choice questions, but present ONLY ONE question at a time.
+Randomize question order across all modules.
+Your MCQs must include a mix of:
+- Easy, moderate, and difficult questions
+- Scenario‑based questions
+- Case‑study questions
+- Yes/No type questions
+- Conceptual + practical application questions
+
+After presenting each question:
+- Stop and wait for my answer.
+- After I answer, provide:
+✔️ A clear statement of the correct answer
+📝 A brief explanation (2–4 sentences)
+
+
+Then automatically present the next question
+Continue until all 25 questions are completed.
+
+Content Coverage Requirements (Generate questions across all following modules):
+Learning Path-8:  Implement continuous feedback (https://learn.microsoft.com/en-us/training/paths/az-400-implement-continuous-feedback/)
+Module 1. Implement Tools to Track Usage and Flow
+Module 2. Develop monitor and status dashboards
+Module 3. Share knowledge within teams
+Module 4. Design processes to automate application analytics
+Module 5. Manage alerts, blameless retrospectives and a just culture
+
+Start Now
+Begin with:
+“Question 1 of 25:”
+Then present the first MCQ and wait for my answer.
+
+---------------------------------------------------------------------------------------------------
