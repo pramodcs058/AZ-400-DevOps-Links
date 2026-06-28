@@ -204,9 +204,7 @@ https://learn.microsoft.com/en-us/credentials/support/retake-policy
 
 # 📝 Practice Questions
 
-## Valid Dumps
-
-https://certyiq.com/papers/microsoft/az-400/1
+https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/practice/assessment?assessment-type=practice&assessmentId=56
 
 ---
 
